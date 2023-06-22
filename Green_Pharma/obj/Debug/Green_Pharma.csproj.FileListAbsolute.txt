@@ -1,0 +1,39 @@
+C:\Users\Atif\source\repos\Green_Pharma\Green_Pharma\bin\Debug\Green_Pharma.exe.config
+C:\Users\Atif\source\repos\Green_Pharma\Green_Pharma\bin\Debug\Green_Pharma.exe
+C:\Users\Atif\source\repos\Green_Pharma\Green_Pharma\bin\Debug\Green_Pharma.pdb
+C:\Users\Atif\source\repos\Green_Pharma\Green_Pharma\obj\Debug\Green_Pharma.Form1.resources
+C:\Users\Atif\source\repos\Green_Pharma\Green_Pharma\obj\Debug\Green_Pharma.Properties.Resources.resources
+C:\Users\Atif\source\repos\Green_Pharma\Green_Pharma\obj\Debug\Green_Pharma.csproj.GenerateResource.cache
+C:\Users\Atif\source\repos\Green_Pharma\Green_Pharma\obj\Debug\Green_Pharma.csproj.CoreCompileInputs.cache
+C:\Users\Atif\source\repos\Green_Pharma\Green_Pharma\obj\Debug\Green_Pharma.exe
+C:\Users\Atif\source\repos\Green_Pharma\Green_Pharma\obj\Debug\Green_Pharma.pdb
+C:\Users\Atif\source\repos\Green_Pharma\Green_Pharma\obj\Debug\Green_Pharma.Login.resources
+C:\Users\Atif\source\repos\Green_Pharma\Green_Pharma\obj\Debug\Green_Pharma.Admin.resources
+C:\Users\Atif\source\repos\Green_Pharma\Green_Pharma\obj\Debug\Green_Pharma.Dashboard.resources
+C:\Users\Atif\source\repos\Green_Pharma\Green_Pharma\obj\Debug\Green_Pharma.Manufacturer.resources
+C:\Users\Atif\source\repos\Green_Pharma\Green_Pharma\bin\Debug\PharmacyDb.mdf
+C:\Users\Atif\source\repos\Green_Pharma\Green_Pharma\bin\Debug\PharmacyDb_log.ldf
+C:\Users\Atif\source\repos\Green_Pharma\Green_Pharma\obj\Debug\Green_Pharma.Customers.resources
+C:\Users\Atif\source\repos\Green_Pharma\Green_Pharma\obj\Debug\Green_Pharma.Medecines.resources
+C:\Users\Atif\source\repos\Green_Pharma\Green_Pharma\obj\Debug\Green_Pharma.Sellers.resources
+C:\Users\Atif\source\repos\Green_Pharma\Green_Pharma\obj\Debug\Green_Pharma.Selling.resources
+C:\Users\Atif\source\repos\Green_Pharma\Green_Pharma\obj\Debug\Green_Pharma.csproj.AssemblyReference.cache
+C:\Users\Atif xPanda\Documents\Green_Pharma\Green_Pharma\bin\Debug\PharmacyDb.mdf
+C:\Users\Atif xPanda\Documents\Green_Pharma\Green_Pharma\bin\Debug\PharmacyDb_log.ldf
+C:\Users\Atif xPanda\Documents\Green_Pharma\Green_Pharma\bin\Debug\Green_Pharma.exe.config
+C:\Users\Atif xPanda\Documents\Green_Pharma\Green_Pharma\bin\Debug\Green_Pharma.exe
+C:\Users\Atif xPanda\Documents\Green_Pharma\Green_Pharma\bin\Debug\Green_Pharma.pdb
+C:\Users\Atif xPanda\Documents\Green_Pharma\Green_Pharma\obj\Debug\Green_Pharma.Admin.resources
+C:\Users\Atif xPanda\Documents\Green_Pharma\Green_Pharma\obj\Debug\Green_Pharma.Customers.resources
+C:\Users\Atif xPanda\Documents\Green_Pharma\Green_Pharma\obj\Debug\Green_Pharma.Dashboard.resources
+C:\Users\Atif xPanda\Documents\Green_Pharma\Green_Pharma\obj\Debug\Green_Pharma.Form1.resources
+C:\Users\Atif xPanda\Documents\Green_Pharma\Green_Pharma\obj\Debug\Green_Pharma.Login.resources
+C:\Users\Atif xPanda\Documents\Green_Pharma\Green_Pharma\obj\Debug\Green_Pharma.Manufacturer.resources
+C:\Users\Atif xPanda\Documents\Green_Pharma\Green_Pharma\obj\Debug\Green_Pharma.Medecines.resources
+C:\Users\Atif xPanda\Documents\Green_Pharma\Green_Pharma\obj\Debug\Green_Pharma.Properties.Resources.resources
+C:\Users\Atif xPanda\Documents\Green_Pharma\Green_Pharma\obj\Debug\Green_Pharma.Sellers.resources
+C:\Users\Atif xPanda\Documents\Green_Pharma\Green_Pharma\obj\Debug\Green_Pharma.Selling.resources
+C:\Users\Atif xPanda\Documents\Green_Pharma\Green_Pharma\obj\Debug\Green_Pharma.csproj.GenerateResource.cache
+C:\Users\Atif xPanda\Documents\Green_Pharma\Green_Pharma\obj\Debug\Green_Pharma.csproj.CoreCompileInputs.cache
+C:\Users\Atif xPanda\Documents\Green_Pharma\Green_Pharma\obj\Debug\Green_Pharma.exe
+C:\Users\Atif xPanda\Documents\Green_Pharma\Green_Pharma\obj\Debug\Green_Pharma.pdb
